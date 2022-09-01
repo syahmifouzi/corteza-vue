@@ -222,7 +222,7 @@ export default {
 
     documentationURL () {
       const [year, month] = VERSION.split('.')
-      return `https://docs.cortezaproject.org/corteza-docs/${year}.${month}/index.html`
+      return `https://datageometry.io`
     },
 
     helpLinks () {
