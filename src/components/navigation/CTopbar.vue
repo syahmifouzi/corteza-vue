@@ -78,7 +78,7 @@
         <b-dropdown-item
           data-test-id="dropdown-helper-forum"
           v-if="!settings.hideForumLink"
-          href="https://forum.cortezaproject.org/"
+          href="https://datageometry.io"
           target="_blank"
         >
           {{ labels.helpForum }}
@@ -94,7 +94,7 @@
         <b-dropdown-item
           data-test-id="dropdown-helper-feedback"
           v-if="!settings.hideFeedbackLink"
-          href="mailto:info@crust.tech"
+          href="mailto:syahmi@netgeometry.com"
           target="_blank"
         >
           {{ labels.helpFeedback }}
